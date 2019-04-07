@@ -1,0 +1,12 @@
+.task-container {
+    width: 220px;
+    border: 1px solid lightgrey;
+    border-radius: 2px;
+    padding: 8px;
+    margin-bottom: 8px;
+    display: flex;
+}
+
+.isDragging {
+    background-color: lightgreen;
+}
